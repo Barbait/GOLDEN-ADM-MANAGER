@@ -8,6 +8,9 @@
 ## Installation
 
 `apt-get update && apt-get upgrade -y`
+
 `wget https://raw.githubusercontent.com/Barbait/GOLDEN-ADM-MANAGER/master/goldenvps.sh`
+
 `chmod 777 goldenvps.sh`
+
 `./goldenvps.sh`
